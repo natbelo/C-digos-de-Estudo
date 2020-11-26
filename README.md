@@ -1,2 +1,2 @@
-# C-digos-de-Estudo
-Códigos que estou fazendo durante meu processo de estudo em Ciência de Dados.
+# Codigos-de-Estudo
+Códigos que estou reproduzindo durante meu processo de estudo em Ciência de Dados.
